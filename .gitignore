@@ -100,3 +100,5 @@ backend/.env
 # Frontend specific
 frontend/build/
 frontend/.env
+
+creadentials.md
