@@ -137,16 +137,6 @@ VITE_GOOGLE_CLIENT_ID=your_google_client_id
 **Base URL:** `http://localhost:5000/api`  
 **Auth:** Bearer token required for protected routes
 
-See [API_ENDPOINTS_SUMMARY.txt](./backend/API_ENDPOINTS_SUMMARY.txt) for complete documentation.
-
-## 📸 Screenshots
-
-> Create a `screenshots` folder and add your application images:
-> - Landing page, login, signup
-> - Patient dashboard, appointment booking, doctor search
-> - Doctor dashboard, prescriptions, schedule
-> - Admin panel, analytics, user management
-
 ---
 
 ## 🚀 Future Enhancements
@@ -193,34 +183,18 @@ See [API_ENDPOINTS_SUMMARY.txt](./backend/API_ENDPOINTS_SUMMARY.txt) for complet
 - **IoT Integration** - Real-time patient monitoring devices
 - **Ambulance Tracking** - GPS-based emergency services
 
-## 👥 Team Members
+## 👥 Made By
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 1"/><br />
-      <sub><b>Member Name 1</b></sub><br />
-      <sub>Roll Number / ID</sub><br />
-      <a href="https://github.com/username1">GitHub</a> •
-      <a href="https://linkedin.com/in/username1">LinkedIn</a><br />
-      <sub>Role: Full Stack Developer</sub>
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/100" width="100px;" alt="Member 2"/><br />
-      <sub><b>Member Name 2</b></sub><br />
-      <sub>Roll Number / ID</sub><br />
-      <a href="https://github.com/username2">GitHub</a> •
-      <a href="https://linkedin.com/in/username2">LinkedIn</a><br />
-      <sub>Role: Full Stack Developer</sub>
+      <sub><b>Aryan Kansal</b></sub><br />
+      <a href="https://github.com/ARYAN149489">GitHub</a> •
+      <a href="https://linkedin.com/in/aryankansal113">LinkedIn</a><br />
+      <sub>Full Stack Developer</sub>
     </td>
   </tr>
 </table>
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -229,14 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://reactjs.org/) • [Node.js](https://nodejs.org/) • [MongoDB](https://www.mongodb.com/)
 - [Tailwind CSS](https://tailwindcss.com/) • [Google Gemini AI](https://ai.google.dev/)
 - All open-source contributors and libraries used in this project
-
----
-
-## 📞 Contact
-
-📧 Email: support@medicareplus.com  
-🐛 Issues: [GitHub Issues](https://github.com/yourusername/medicare-plus/issues)  
-💬 Discussions: [GitHub Discussions](https://github.com/yourusername/medicare-plus/discussions)
 
 ---
 
